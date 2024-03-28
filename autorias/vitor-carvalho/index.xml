@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vitor Carvalho on 100 formas de contar de 1 a 100 utilizando programação</title>
+    <link>https://1-100.github.io/autorias/vitor-carvalho/</link>
+    <description>Recent content in Vitor Carvalho on 100 formas de contar de 1 a 100 utilizando programação</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 09 Jan 2021 08:23:18 -0300</lastBuildDate><atom:link href="https://1-100.github.io/autorias/vitor-carvalho/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>010</title>
+      <link>https://1-100.github.io/formas/010/</link>
+      <pubDate>Sat, 09 Jan 2021 08:23:18 -0300</pubDate>
+      
+      <guid>https://1-100.github.io/formas/010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>006</title>
+      <link>https://1-100.github.io/formas/006/</link>
+      <pubDate>Wed, 06 Jan 2021 15:01:03 -0300</pubDate>
+      
+      <guid>https://1-100.github.io/formas/006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
