@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>André Burnier on 100 formas de contar de 1 a 100 utilizando programação</title>
+    <link>https://1-100.github.io/autorias/andr%C3%A9-burnier/</link>
+    <description>Recent content in André Burnier on 100 formas de contar de 1 a 100 utilizando programação</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sat, 09 Jan 2021 19:52:46 -0300</lastBuildDate><atom:link href="https://1-100.github.io/autorias/andr%C3%A9-burnier/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>012</title>
+      <link>https://1-100.github.io/formas/012/</link>
+      <pubDate>Sat, 09 Jan 2021 19:52:46 -0300</pubDate>
+      
+      <guid>https://1-100.github.io/formas/012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>011</title>
+      <link>https://1-100.github.io/formas/011/</link>
+      <pubDate>Sat, 09 Jan 2021 19:34:41 -0300</pubDate>
+      
+      <guid>https://1-100.github.io/formas/011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
